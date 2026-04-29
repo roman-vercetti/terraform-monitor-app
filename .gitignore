@@ -86,7 +86,6 @@ custom-index.html
 nginx.conf
 *.bak
 backup.sql
-screenshot.png
 terraform-monitor-app.code-workspace
 
 # Temporary files
