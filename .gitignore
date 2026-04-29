@@ -6,7 +6,6 @@
 .terraform/
 .terraform.lock.hcl
 terraform.tfstate.backup
-terraform.tfstate
 crash.log
 crash.*.log
 override.tf
@@ -87,3 +86,10 @@ custom-index.html
 nginx.conf
 *.bak
 backup.sql
+screenshot.png
+terraform-monitor-app.code-workspace
+
+# Temporary files
+tmp/
+temp/
+*.tmp
